@@ -1,0 +1,13 @@
+.blog {
+    border: 2px solid black; /* Ensures a border on all four sides */
+    padding: 15px; /* Adds space inside the border */
+    width: fit-content; /* Shrinks the container to the content width */
+    margin: 20px; /* Adjusts spacing around */
+  }
+  
+  img {
+    width: 400px; /* Adjust this to match the required size */
+    height: auto; /* Maintains aspect ratio */
+    display: block; /* Prevents extra space below the image */
+    margin: 10px 0; /* Adjusts spacing around the image */
+  }
