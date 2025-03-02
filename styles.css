@@ -11,3 +11,7 @@
     display: block; /* Prevents extra space below the image */
     margin: 10px 0; /* Adjusts spacing around the image */
   }
+
+.container {
+  padding: 20px;
+}
